@@ -9,7 +9,5 @@ public class Ejericicio2 {
         int num2 = sc.nextInt();
         int result = num1 + num2;
         System.out.print("El resultado de la suma es: " +result);
-
-        sc.close();
     }
 }
