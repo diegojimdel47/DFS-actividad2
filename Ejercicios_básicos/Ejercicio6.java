@@ -10,7 +10,7 @@ public class Ejercicio6 {
             System.out.println("Eres un niño");
         } else if(age < 18) {
             System.out.println("Eres un adolescente");
-        } else if(age <65) {
+        } else if(age < 65) {
             System.out.println("Eres un adulto");
         } else {
             System.out.println("Eres un adulto mayor");

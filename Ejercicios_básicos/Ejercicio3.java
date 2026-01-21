@@ -8,5 +8,7 @@ public class Ejercicio3 {
         int num2 = (int) num1;
         System.out.println("Double: " +num1);
         System.out.println("Entero: " +num2);
+
+        sc.close();
     }
 }
