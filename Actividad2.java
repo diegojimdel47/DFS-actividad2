@@ -12,7 +12,7 @@ public class Actividad2 {
         } else if (name.toLowerCase(saved_names)) {
             System.out.println("Tienes que escribir la inicial con mayúscula");
         } else if (name.toUpperCase(saved_names)) {
-            System.out.println("Solo la inicial se escribe con mayúscukla");
+            System.out.println("Solo la inicial se escribe con mayúscula");
         } else {
             System.out.println("Este nombre no coincide con los guardados");
         }
