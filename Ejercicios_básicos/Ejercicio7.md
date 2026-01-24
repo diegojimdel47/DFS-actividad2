@@ -1,3 +1,9 @@
+# Ejercicio 7
+[Regresar al Índice](/README.md)
+## Descripción del programa
+El usuario tiene que escribir un número del 1 al 7, y dependiendo del número que escoja saldrá un día de la semana.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio7 {
     public static void main(String[] args) {
@@ -40,3 +46,6 @@ public class Ejercicio7 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio7_Captura.png)

@@ -1,3 +1,9 @@
+# Ejercicio 17
+[Regresar al Índice](/README.md)
+## Descripción del programa
+En este programa se le pide al usuario un número decimal y se verifican dos condiciones, si esta dentro del intervalo cerrado entre 10 y 20, o si esta dentro del intervalo abierto de 30 y 40, si cumple cualquiera de las dos condiciones es un número valido.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio17 {
     public static void main(String[] args) {
@@ -13,3 +19,6 @@ public class Ejercicio17 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio17_Captura.png)

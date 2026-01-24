@@ -1,3 +1,9 @@
+# Ejercicio 14
+[Regresar al Índice](/README.md)
+## Descripción del programa
+Aquí se simula la entrada a una sala de cine, lo que tiene dos condiciones, que sea mayor a 14 años y si tiene credencial o no.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio14 {
     public static void main(String[] args) {
@@ -23,3 +29,6 @@ public class Ejercicio14 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio14_Captura.png)

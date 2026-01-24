@@ -1,3 +1,9 @@
+# Ejercicio 11
+[Regresar al Índice](/README.md)
+## Descripción del programa
+El usuario tiene que escribir un número entero, y el programa lo clasifica en si es positivo, negativo o cero.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio11 {
     public static void main(String[] args) {
@@ -15,3 +21,6 @@ public class Ejercicio11 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio11_Captura.png)

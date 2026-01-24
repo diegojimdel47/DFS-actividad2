@@ -1,3 +1,9 @@
+# Ejercicio 9
+[Regresar al Índice](/README.md)
+## Descripción del programa
+El usuario tiene que escribir una calificación del 1 al 100 y dependiendo de cual sea, se clasifica en distintas categorias, si es menor de 70 esta reprobado, si es menor de 80 esta aprobado, si es menor de 90 esta muy bien, y si es mayor a 90 es excelente.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio9 {
     public static void main(String[] args) {
@@ -17,3 +23,6 @@ public class Ejercicio9 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio9_Captura.png)

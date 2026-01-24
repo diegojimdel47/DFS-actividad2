@@ -1,3 +1,11 @@
+# Ejercicio 10
+[Regresar al Índice](/README.md)
+## Descripción del programa
+Este programa le pide al usuario un rango de números y le muestra los primeros n números pares de ese rango, por ejemplo si se escoge 2, seran 2 y 4.
+
+Además los números se ordenan en un arreglo y si imprimen en una sola línea.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio10 {
     public static  void main(String[] args) {
@@ -20,3 +28,6 @@ public class Ejercicio10 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio10_Captura.png)

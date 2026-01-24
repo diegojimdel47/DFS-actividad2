@@ -1,3 +1,9 @@
+# Ejercicio 13
+[Regresar al Índice](/README.md)
+## Descripción del programa
+Este programa verifica la validez de la edad y mayoria de edad del usuario, el rango es de 1 a 120 años, y la mayoría de edad es a partir de los 18.
+## Código
+``` java
 import java.util.Scanner;
 public class Ejercicio13 {
     public static void main(String[] args) {
@@ -19,3 +25,6 @@ public class Ejercicio13 {
         }
     }
 }
+```
+## Salida esperada
+![](Ejercicio13_Captura.png)
